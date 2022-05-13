@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetR6_2 Pin=SW1-1
+Removed Pin From Net: NetName=NetSW1_2 Pin=SW1-2
+Removed Pin From Net: NetName=NetR7_2 Pin=SW2-1
+Removed Pin From Net: NetName=NetSW2_2 Pin=SW2-2
+Removed Pin From Net: NetName=NetR8_2 Pin=SW3-1
+Removed Pin From Net: NetName=NetSW3_2 Pin=SW3-2
+Removed Pin From Net: NetName=NetR9_2 Pin=SW4-1
+Removed Pin From Net: NetName=NetSW4_2 Pin=SW4-2
+Added Component: Designator=P1(Power)
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetR6_2 Pin=SW1-0
+Added Pin To Net: NetName=NetSW1_2 Pin=SW1-1
+Added Pin To Net: NetName=VCC Pin=SW1-3
+Added Pin To Net: NetName=NetR7_2 Pin=SW2-0
+Added Pin To Net: NetName=NetSW2_2 Pin=SW2-1
+Added Pin To Net: NetName=VCC Pin=SW2-3
+Added Pin To Net: NetName=NetR8_2 Pin=SW3-0
+Added Pin To Net: NetName=NetSW3_2 Pin=SW3-1
+Added Pin To Net: NetName=VCC Pin=SW3-3
+Added Pin To Net: NetName=NetR9_2 Pin=SW4-0
+Added Pin To Net: NetName=NetSW4_2 Pin=SW4-1
+Added Pin To Net: NetName=VCC Pin=SW4-3
+Added Member To Class: ClassName=Remote V2 Member=Component P1 Header 2

@@ -1,0 +1,6 @@
+Started - 6/3/2020
+Designed first schematic - 6/7/2020
+Built Prototype 6/8/2020
+Programmed prototype 6/8/2020
+Updated Schematic 6/12/2020
+Made PCB Design 6/24/2020
